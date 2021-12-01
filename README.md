@@ -42,7 +42,7 @@ The pictorial representation of the daily interactions and overall figures of la
 * The MongoDB URI is provided in .env file currently for testing purpose.
 
 * Go to backend > index.js
-    * Set the time in line #41 to start the scheduler accordingly.
+    * Set the time in line #41 to start the scheduler (or send emails) accordingly.
 
 
 
