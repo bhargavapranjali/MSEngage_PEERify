@@ -49,10 +49,10 @@ The pictorial representation of the daily interactions and overall figures of la
 ## Steps to run
 
 * Go to /backend 
-    * Install all the dependencies using package.json using `npm i`
+    * Install all the dependencies in package.json using `npm i`
 
 * Go to /frontend
-    * Install all the dependencies using package.json using `npm i`
+    * Install all the dependencies in package.json using `npm i`
 
 * Ignore the package.json in the root directory
 
